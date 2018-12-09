@@ -85,3 +85,48 @@ img.brand-icon {
     font-weight: bold;
 }
 
+/*个人中心show和user_info样式*/
+
+.avatar_box{
+    text-align: center;
+}
+
+.user_info a{
+    display: block;
+}
+
+.user_info {
+    padding-bottom: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.user_info  h1 {
+    font-size: 1.4em;
+    letter-spacing: -1px;
+    margin-bottom: 3px;
+    margin-top: 15px;
+}
+
+.user_info .gravatar {
+    margin-right: 10px;
+    max-width: 50px;
+    border-radius: 50%;
+}
+
+/*注册页面*/
+
+input, textarea, select, .uneditable-input {
+    border: 1px solid #bbb;
+    margin-bottom: 15px;
+}
+
+input {
+    height: auto !important;
+}
+
+.panel {
+    margin-top: 50px;
+}
+
+/*错误信息样式*/
