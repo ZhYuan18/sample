@@ -129,4 +129,7 @@ input {
     margin-top: 50px;
 }
 
-/*错误信息样式*/
+/*个人信息*/
+#dropmenu .dropdown-menu{
+    margin: 0.7rem 0 0;
+}
